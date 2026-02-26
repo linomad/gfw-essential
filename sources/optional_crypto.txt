@@ -1,6 +1,7 @@
 .binance.com
 .binance.org
 .binancezh.cc
+.bnbstatic.com
 .bitcointalk.org
 .bitget.com
 .bitmex.com

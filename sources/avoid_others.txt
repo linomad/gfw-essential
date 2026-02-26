@@ -437,7 +437,6 @@
 .bloomfortune.com
 .blubrry.com
 .bmdru.com
-.bnbstatic.com
 .bnext.com.tw
 .bnn.co
 .bnrmetal.com
