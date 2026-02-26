@@ -1,6 +1,7 @@
 .about.gitlab.com
 .ai.dev
 .ai.studio
+.aistudio.google.com
 .amazonvideo.com
 .anthropic.com
 .api.ai
@@ -57,6 +58,7 @@
 .fb.com
 .fb.me
 .fbcdn.net
+.files.oaiusercontent.com
 .firebaseio.com
 .flickr.com
 .flowgpt.com
@@ -64,7 +66,9 @@
 .freegpt.es
 .freegpt.tech
 .gcr.io
+.gemini.google.com
 .generated.photos
+.generativelanguage.googleapis.com
 .ggpht.com
 .git.io
 .github.blog

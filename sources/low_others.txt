@@ -106,8 +106,6 @@
 .agnesb.fr
 .agoogleaday.com
 .agro.hk
-.ai.dev
-.ai.studio
 .aiosearch.com
 .aiph.net
 .airconsole.com
@@ -183,7 +181,6 @@
 .apat1989.org
 .api-secure.recaptcha.net
 .api-verify.recaptcha.net
-.api.ai
 .api.palworldgame.com
 .api.pureapk.com
 .apiary.io
@@ -310,7 +307,6 @@
 .berlintwitterwall.com
 .bet365.com
 .betaclouds.net
-.bettergpt.chat
 .betterhash.net
 .betternet.co
 .bettween.com
@@ -643,8 +639,6 @@
 .chromestatus.com
 .chromium.org
 .ci-en.jp
-.cici.com
-.ciciai.com
 .cirosantilli.com
 .citizencn.com
 .city365.ca
@@ -652,7 +646,6 @@
 .civicparty.hk
 .civilhrfront.org
 .civilmedia.tw
-.civitai.com
 .cixiaoya.club
 .ck101.com
 .classicalguitarblog.net
@@ -660,7 +653,6 @@
 .clearsurance.com
 .clementine-player.org
 .clipconverter.cc
-.cloud.dify.ai
 .cloud.mail.ru
 .cloudfunctions.net
 .club1069.com
@@ -720,7 +712,6 @@
 .counter.social
 .coursehero.com
 .covenantswatch.org.tw
-.coze.com
 .cpj.org
 .cpu-monkey.com
 .cq99.us
@@ -756,7 +747,6 @@
 .cumlouder.com
 .curvefish.com
 .cusp.hk
-.cutout.pro
 .cutscenes.net
 .cw.com.tw
 .cynscribe.com
@@ -803,8 +793,6 @@
 .deck.ly
 .deck.new
 .decodet.co
-.deepai.org
-.deepmind.com
 .deezer.com
 .deja.com
 .delcamp.net
@@ -819,7 +807,6 @@
 .deviantart.com
 .deviantart.net
 .devio.us
-.devv.ai
 .diaoyuislands.org
 .digiland.tw
 .digisfera.com
@@ -1018,7 +1005,6 @@
 .fiddle.jshell.net
 .figprayer.com
 .fileflyer.com
-.files.oaiusercontent.com
 .filesor.com
 .financetwitter.com
 .financialexpress.com
@@ -1040,7 +1026,6 @@
 .flipkart.com
 .flitto.com
 .flog.tw
-.flowgpt.com
 .flowhongkong.net
 .flypool.org
 .flyzy2005.com
@@ -1052,7 +1037,6 @@
 .fofg.org
 .fooooo.com
 .forbes.com
-.forefront.ai
 .foreignaffairs.com
 .foreignpolicy.com
 .form.new
@@ -1075,8 +1059,6 @@
 .freebrowser.org
 .freechinaweibo.com
 .freegao.com
-.freegpt.es
-.freegpt.tech
 .freehongkong.org
 .freekazakhs.org
 .freelotto.com
@@ -1147,7 +1129,6 @@
 .geek-art.net
 .gekikame.com
 .gelbooru.com
-.generated.photos
 .genius.com
 .geph.io
 .get.app
@@ -1185,7 +1166,6 @@
 .gitbook.io
 .gizlen.net
 .gjczz.com
-.glarity.app
 .glass8.eu
 .global.ssl.fastly.net
 .globaljihad.net
@@ -1552,7 +1532,6 @@
 .jable.tv
 .jamestown.org
 .jamyangnorbu.com
-.jan.ai
 .japan-whores.com
 .japanhdv.com
 .japantimes.co.jp
@@ -1684,7 +1663,6 @@
 .lenwhite.com
 .lesoir.be
 .letscorp.net
-.lexica.art
 .lhakar.org
 .li.taipei
 .liangyou.net
@@ -1722,7 +1700,6 @@
 .livestream.com
 .livevideo.com
 .livingstream.com
-.lmarena.ai
 .localbitcoins.com
 .localdomain.ws
 .lockestek.com
@@ -1732,7 +1709,6 @@
 .longtoes.com
 .lookpic.com
 .looktoronto.com
-.lovart.ai
 .lovetvshow.com
 .lpsg.com
 .lrfz.com

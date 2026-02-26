@@ -1,5 +1,6 @@
 .ai.dev
 .ai.studio
+.aistudio.google.com
 .anthropic.com
 .api.ai
 .bettergpt.chat
@@ -20,6 +21,9 @@
 .forefront.ai
 .freegpt.es
 .freegpt.tech
+.files.oaiusercontent.com
+.gemini.google.com
+.generativelanguage.googleapis.com
 .generated.photos
 .githubcopilot.com
 .glarity.app
