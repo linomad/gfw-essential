@@ -4,8 +4,6 @@
 .google.ac
 .google.ad
 .google.ae
-.google.af
-.google.ai
 .google.al
 .google.am
 .google.as
@@ -208,13 +206,6 @@
 .googleusercontent.com
 .googlevideo.com
 .gstatic.com
-.t.co
-.twimg.com
-.twimg.edgesuite.net
-.twitter.com
-.twitter.jp
-.x.ai
-.x.com
 .youtu.be
 .youtube.com
 .ytimg.com

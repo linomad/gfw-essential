@@ -12,7 +12,6 @@
 .github.com
 .github.io
 .githubassets.com
-.githubcopilot.com
 .githubusercontent.com
 .gitlab.net
 .golang.org
