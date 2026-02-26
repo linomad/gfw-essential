@@ -2,7 +2,7 @@
 set -euo pipefail
 
 project_root="${PROJECT_ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
-output_file="$project_root/dist/high_unified.txt"
+output_file="$project_root/dist/final_valuable_domains.txt"
 source_dir="$project_root/sources"
 mode="${1:-build}"
 
@@ -37,11 +37,11 @@ if [[ "$mode" == "--check" ]]; then
   fi
 
   if cmp -s "$tmp_file" "$output_file"; then
-    echo "high_unified.txt is up-to-date"
+    echo "final_valuable_domains.txt is up-to-date"
     exit 0
   fi
 
-  echo "high_unified.txt is out-of-date, run scripts/build_high_unified.sh" >&2
+  echo "final_valuable_domains.txt is out-of-date, run scripts/build_high_unified.sh" >&2
   exit 1
 fi
 

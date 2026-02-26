@@ -33,4 +33,4 @@ cat > "$workdir/expected.txt" <<'EXP'
 .c.example
 EXP
 
-cmp -s "$workdir/dist/high_unified.txt" "$workdir/expected.txt"
+cmp -s "$workdir/dist/final_valuable_domains.txt" "$workdir/expected.txt"
