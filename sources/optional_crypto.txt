@@ -21,4 +21,5 @@
 .kraken.com
 .kucoin.com
 .okx.com
+.polymarket.com
 .poolbinance.com
