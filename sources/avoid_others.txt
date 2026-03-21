@@ -696,7 +696,6 @@
 .communitychoicecu.com
 .comparitech.com
 .compileheart.com
-.connect.facebook.net
 .conoha.jp
 .contests.twilio.com
 .cool18.com

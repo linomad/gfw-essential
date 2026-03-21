@@ -30,6 +30,7 @@
 .google.ai
 .grok.com
 .huggingface.co
+.intercom.io
 .jan.ai
 .lexica.art
 .lmarena.ai

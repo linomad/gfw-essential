@@ -3,6 +3,7 @@
 .bsky.social
 .cdn-telegram.org
 .cdninstagram.com
+.connect.facebook.net
 .discord.com
 .discord.gg
 .discordapp.com

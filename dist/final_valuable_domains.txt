@@ -33,6 +33,7 @@
 .cloudflare-dns.com
 .cloudflare-ipfs.com
 .cloudflarestatus.com
+.connect.facebook.net
 .copilot.microsoft.com
 .coze.com
 .cutout.pro
@@ -295,6 +296,7 @@
 .hulu.com
 .imgur.com
 .instagram.com
+.intercom.io
 .jan.ai
 .jsdelivr.net
 .lexica.art
