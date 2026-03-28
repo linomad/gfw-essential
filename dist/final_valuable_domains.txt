@@ -311,6 +311,8 @@
 .netflix.net
 .netlify.app
 .nytimes.com
+.oaistatic.com
+.oaiusercontent.com
 .openai.com
 .openvpn.net
 .openvpn.org

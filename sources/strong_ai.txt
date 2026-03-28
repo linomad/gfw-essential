@@ -22,6 +22,8 @@
 .freegpt.es
 .freegpt.tech
 .files.oaiusercontent.com
+.oaiusercontent.com
+.oaistatic.com
 .gemini.google.com
 .generativelanguage.googleapis.com
 .generated.photos
