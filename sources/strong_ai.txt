@@ -43,3 +43,5 @@
 .sydney.bing.com
 .x.ai
 .you.com
+.elevenlabs.io
+.moltbook.com
