@@ -41,6 +41,7 @@
 .perplexity.ai
 .poe.com
 .sydney.bing.com
+.withgoogle.com
 .x.ai
 .you.com
 .elevenlabs.io
