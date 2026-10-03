@@ -2,6 +2,7 @@
 .ai.studio
 .aistudio.google.com
 .anthropic.com
+.anthropicusercontent.com
 .api.ai
 .bettergpt.chat
 .character.ai
@@ -10,6 +11,7 @@
 .ciciai.com
 .civitai.com
 .claude.ai
+.claude.com
 .cloud.dify.ai
 .copilot.microsoft.com
 .coze.com

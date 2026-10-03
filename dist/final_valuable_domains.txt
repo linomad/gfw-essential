@@ -4,6 +4,7 @@
 .aistudio.google.com
 .amazonvideo.com
 .anthropic.com
+.anthropicusercontent.com
 .api.ai
 .api.recaptcha.net
 .api.steampowered.com
@@ -29,6 +30,7 @@
 .ciciai.com
 .civitai.com
 .claude.ai
+.claude.com
 .cloud.dify.ai
 .cloudflare-dns.com
 .cloudflare-ipfs.com
